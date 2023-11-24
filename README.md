@@ -2,7 +2,7 @@
 git講座用 mainプロジェクト
 
 ### Overview
-![demo](images/185096-_540_.gif)
+![demo](images/185096-_540p_.gif)
 
 ### How to install
 1. download xxx
